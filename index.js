@@ -3,5 +3,5 @@ function shout(string) {
 }
 
 function logShot(string) {
-  console.log ()string.toUpperCase
+  console.log (); string.toUpperCase
 }
